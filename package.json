@@ -1,0 +1,30 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "Gulp for blogger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxdev/blogger.git"
+  },
+  "keywords": [
+    "gulp",
+    "browsersync",
+    "jekyll"
+  ],
+  "author": "Shane Biggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moxdev/blogger/issues"
+  },
+  "homepage": "https://github.com/moxdev/blogger#readme",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "lodash": "^4.15.0"
+  }
+}
