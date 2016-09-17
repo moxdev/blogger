@@ -32,6 +32,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
-exclude: [node_modules, gulpfile.js, blog.sublime-project, blog.sublime-worspace]
+exclude: [node_modules, gulpfile.js, blog.sublime-project, blog.sublime-workspace]
+
+include: [_data, _drafts, _includes, _layouts]
 # Syntax highlighting
 # highlighter: pygments
