@@ -4,4 +4,4 @@
 - remove node modules
     + `git rm -r --cached node_modules`
 - `be js`
-- 
+- `_DIR` underscore files/folders excluded by default, add to include:[] in cofig file
