@@ -22,3 +22,9 @@ gem "minima"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+# Old Syntax Higlighter
+gem 'pygments.rb'
+
+# For inserting gists to posts
+gem 'jekyll-gist'

@@ -8,4 +8,5 @@
 - [Jekyll Resources](https://jekyllrb.com/docs/resources/)
 - [Contact Forms](https://coderwall.com/p/8lq1ba/how-to-create-a-contact-form-for-a-github-pages-served-jekyll-website)
 - [Jekyll Cheatsheet](http://jekyll.tips/jekyll-cheat-sheet/)
+- [gist](https://github.com/jekyll/jekyll-gist)
 
